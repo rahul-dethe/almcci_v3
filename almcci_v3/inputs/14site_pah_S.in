@@ -12,5 +12,6 @@ spinTola,0.1
 jValue,1
 beta,38.61
 bondOrder,bondOrder-pah14.dat
+multi,12
 restart,False
 ***endSetup***
